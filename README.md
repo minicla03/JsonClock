@@ -36,12 +36,14 @@ Un elegante widget orologio per Android che mostra tempo, data e festività via 
 
 ---
 
-##🛠️ Tecnologie usate
-Linguaggio: Kotlin
-Architettura: Clean Architecture (Domain / UseCase / Repository)
-Networking: Retrofit + Coroutines
-Widget: AppWidgetProvider + AlarmManager
-Build System: Gradle Kotlin DSL
+## 🛠️ Tecnologie usate
+
+- **Linguaggio**: Kotlin  
+- **Architettura**: Clean Architecture (Domain / UseCase / Repository)  
+- **Networking**: Retrofit + Coroutines  
+- **Widget**: AppWidgetProvider + AlarmManager  
+- **Build System**: Gradle Kotlin DSL
+
 
 ---
 
